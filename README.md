@@ -3,11 +3,11 @@
 *Desenvolvedor Back-end | Java | Springboot | MySQL*
 
 ## Sobre Mim
-* Olá! Me chamo Marcelo, e sou um desenvolvedor apaixonado por tecnologia desde pequeno
+* Olá! Me chamo Marcelo, sou um desenvolvedor back-end e me considero um jovem apaixonado por tecnologia desde pequeno. Sempre tive o sonho de ser desenvolvedor, e me esforço para ser um grande profissional sempre. No momento, estou tentando conquistar meu espaço nesse grande universo da tecnologia.
 
-* Atualmente, eu tenho 21 anos e estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Imaculada Conceição do Recife, na cidade de Recife/PE
+* Atualmente, eu tenho 21 anos e estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Imaculada Conceição do Recife, na cidade de Recife/PE.
 
-* Gosto de ler sobre o mundo da tecnologia, resolver charadas, sair com amigos, e tomar um bom café ☕️
+* Gosto de ler sobre o mundo da tecnologia, resolver charadas, sair com amigos, e tomar um bom café ☕️.
 
 ## Conecte-se comigo
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:marcelo.felipe87@outlook.com)
