@@ -20,3 +20,7 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+## Minhas Contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloSantiago87&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MarceloSantiago87/dio-lab-open-source)
+
+
