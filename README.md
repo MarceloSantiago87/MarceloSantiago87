@@ -1,11 +1,22 @@
-- 👋 Hi, I’m Marcelo Santiago!
-- 👀 I’m interested in studying Java, C++ and C#.
-- 🌱 I’m currently learning Object-Oriented Programming, Java and Springboot / Hibernate.
 
-Welcome to my profile! 
-I'm a System Analysis and Development course student, and i love programming since i was a kid.
+# Marcelo Santiago
+*Desenvolvedor Back-end | Java | Springboot | MySQL*
 
-<!---
-MarceloSantiago87/MarceloSantiago87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Sobre Mim
+* Olá! Me chamo Marcelo, e sou um desenvolvedor apaixonado por tecnologia desde pequeno
+
+* Atualmente, eu tenho 21 anos e estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Imaculada Conceição do Recife, na cidade de Recife/PE
+
+* Gosto de ler sobre o mundo da tecnologia, resolver charadas, sair com amigos, e tomar um bom café ☕️
+
+## Conecte-se comigo
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:marcelo.felipe87@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-felipe-santiago/)
+
+## Minhas Habilidades
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcelosantiago87)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
