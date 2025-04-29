@@ -1,11 +1,11 @@
 
 # Marcelo Santiago
-*Desenvolvedor Back-end | Java | Springboot | MySQL*
+*Pentester | Python | Offsec Enthusiast*
 
 ## Sobre Mim
-* Olá! Me chamo Marcelo, sou um desenvolvedor back-end e me considero um jovem apaixonado por tecnologia desde pequeno. Sempre tive o sonho de ser desenvolvedor, e me esforço para ser um grande profissional sempre. No momento, estou tentando conquistar meu espaço nesse grande universo da tecnologia.
+* Olá! Me chamo Marcelo, sou um entusiasta de pentesting e desenvolvimento, e me considero um jovem apaixonado por tecnologia desde pequeno. Sempre tive o sonho de ser desenvolvedor, e me esforço para ser um grande profissional sempre. No momento, estou tentando conquistar meu espaço nesse grande universo da tecnologia.
 
-* Atualmente, eu tenho 21 anos e estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Imaculada Conceição do Recife, na cidade de Recife/PE.
+* Atualmente, eu tenho 22 anos e estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Imaculada Conceição do Recife, na cidade de Recife/PE.
 
 * Gosto de ler sobre o mundo da tecnologia, resolver charadas, sair com amigos, e tomar um bom café ☕️.
 
